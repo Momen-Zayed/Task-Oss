@@ -1,0 +1,15 @@
+c:\Users\Momen Zayed\Desktop\c#\APP\bin\Debug\net7.0\APP.exe
+c:\Users\Momen Zayed\Desktop\c#\APP\bin\Debug\net7.0\APP.deps.json
+c:\Users\Momen Zayed\Desktop\c#\APP\bin\Debug\net7.0\APP.runtimeconfig.json
+c:\Users\Momen Zayed\Desktop\c#\APP\bin\Debug\net7.0\APP.dll
+c:\Users\Momen Zayed\Desktop\c#\APP\bin\Debug\net7.0\APP.pdb
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.csproj.AssemblyReference.cache
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.AssemblyInfoInputs.cache
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.AssemblyInfo.cs
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.csproj.CoreCompileInputs.cache
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.dll
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\refint\APP.dll
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.pdb
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\APP.genruntimeconfig.cache
+c:\Users\Momen Zayed\Desktop\c#\APP\obj\Debug\net7.0\ref\APP.dll
